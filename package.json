@@ -1,6 +1,6 @@
 {
   "name": "inlinebot-echo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple inline bot that echo your messages",
   "main": "index.js",
   "scripts": {
@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/inlinebot/inlinebot-echo",
   "dependencies": {
-    "inline-sdk": "~0.0.1"
+    "inline-sdk": "~0.0.3"
   },
   "devDependencies": {}
 }
