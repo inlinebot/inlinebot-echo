@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/inlinebot/inlinebot-echo",
   "dependencies": {
-    "inline-sdk": "~0.0.4"
+    "inline-sdk": "~0.0.5"
   },
   "devDependencies": {}
 }
